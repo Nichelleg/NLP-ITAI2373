@@ -208,4 +208,4 @@ python -m spacy download en_core_web_sm
 **Course:** ITAI 2373 — Natural Language Processing | Spring 2026
 **Professor:** Anna Devarakonda
 
-→ [Main Portfolio](https://github.com/Nichelle-Graf/Nichelle-Graf-AI-Portfolio)
+→ [Main Portfolio](https://github.com/Nichelleg/AI-Portfolio-Nichelle-Graf)
