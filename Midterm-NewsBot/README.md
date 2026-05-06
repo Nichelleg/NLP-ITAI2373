@@ -49,3 +49,10 @@ This project implements a complete NLP pipeline for analyzing news articles. It 
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn spacy nltk
    python -m spacy download en_core_web_sm
+
+## Dataset
+NOTE: The primary dataset used is the News Category Dataset v3 by Rishabh Misra.
+It is too large to include in this repository (85MB).
+It is available on Kaggle: https://www.kaggle.com/datasets/rmisra/news-category-dataset
+
+Note: newsbot_dataset.csv is an alternative smaller dataset explored during early development.
